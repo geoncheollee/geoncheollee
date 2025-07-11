@@ -53,4 +53,14 @@
 
 
 # ✍️ STUDY
+## 개발 방법론 / 아키텍처
+<!-- 개발 방법론 -->
+![MSA](https://img.shields.io/badge/MSA-3982CE?style=for-the-badge&logoColor=white)
+![Hexagonal](https://img.shields.io/badge/Hexagonal-3982CE?style=for-the-badge&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-3982CE?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-3982CE?style=for-the-badge&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-3982CE?style=for-the-badge&logoColor=white)
+
+## SKILL / 아키텍처
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
