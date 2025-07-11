@@ -50,3 +50,7 @@
 
 ## ETC
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+
+# ✍️ STUDY
+![DDD](https://img.shields.io/badge/DDD-3982CE?style=for-the-badge&logoColor=white)
