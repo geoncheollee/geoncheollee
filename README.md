@@ -1,6 +1,6 @@
 # 👋 백엔드 개발자 (since 2016)
 
-[마인드맵](https://geoncheollee.github.io)
+[~~마인드맵~~](https://geoncheollee.github.io)
 
 
 ## SKILL
