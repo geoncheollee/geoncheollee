@@ -75,7 +75,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### ETC
-![Github Spec Kit](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black)
+![Github Spec Kit](https://img.shields.io/badge/github_spec_kit-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black)
 
 ### ~~코딩테스트~~
 [~~프로그래머스👉~~](https://geoncheollee.github.io/page/growth/codingtest/programmers/index.html)
